@@ -1,2 +1,2 @@
 document.body.innerHTML = 'Hello Git from JavaScript';
-console.log('TEST 2');
+console.log('TEST 2!!!!!!!!!!!!!!!!!');
